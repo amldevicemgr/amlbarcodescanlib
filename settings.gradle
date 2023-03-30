@@ -1,0 +1,3 @@
+include ':amlbarcodescannerlib'
+include ':app'
+rootProject.name = "AML Barcode Scanner Library"
